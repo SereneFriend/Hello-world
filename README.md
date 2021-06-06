@@ -1,3 +1,3 @@
 # Hello-world
 to enter
-Hi friends!
+Hi friends! I'm glad to see everyone!
